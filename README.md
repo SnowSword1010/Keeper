@@ -1,3 +1,6 @@
+Keeper App
+This app provides the user with a clean frontend interface to write notes, save them temporarily and delete them if need be.
+________________________________________________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
